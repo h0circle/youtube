@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "Qv9DMyeFpRPkaJbAz0hCflaClAk",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "6HmqhcusONg8QbGzGNw8aAutdFU",
+      "id": "UC6KwCU8Y8Uw4h_Q0ptLZkqw",
+      "snippet": {
+        "title": "해쭈 [HAEJOO]",
+        "description": "안녕하세요 해쭈 입니다\n\n비지니스 문의는 이쪽으로 👉🏽haejoo@sandboxnetwork.net\n\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju",
+        "customUrl": "@haejooooo",
+        "publishedAt": "2012-02-25T13:37:58Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "해쭈 [HAEJOO]",
+          "description": "안녕하세요 해쭈 입니다\n\n비지니스 문의는 이쪽으로 👉🏽haejoo@sandboxnetwork.net\n\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju"
+        },
+        "country": "AU"
+      }
+    }
+  ]
+}

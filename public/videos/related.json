@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "io3J4dgpXnHM4y6m11z269w7qb4",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 658874,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xrPC6FWfv8tfD4wHVHnLT3xLRQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQZhehVRSXQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:54Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 원밀리언(1MILLION)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 원밀리언(1MILLION) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JC_qf4dJrlAUVPKQKpwZbZksoEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2Yw8lKEzJmk"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:24Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 마네퀸(MANNEQUEEN)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 마네퀸(MANNEQUEEN) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TgX5QlaNYvQxbV_I3Zhk1lAEjj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tG8wmVGkXuw"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:34Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sr0nwDwSa4NhCgaxToKRnN1LshI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YAATBERHY1k"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:01Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 베베(BEBE)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 베베(BEBE) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표해주세요   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YAATBERHY1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YAATBERHY1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YAATBERHY1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IZPq55h2w4oqQnLMxBuNeWPXaxM",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-01T11:33:43Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "The CHOOM (더 춤)",
+        "description": "The CHOOM(더 춤) Official Channel Play The CHOOM and Everybody Dance Now! == We are all connected, The CHOOM Mnet ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-01T11:33:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IzuSv40cfMl5TvkvE26X1tvSkUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "35DbAy41w7k"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:15Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 딥앤댑(DEEP N DAP)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 딥앤댑(DEEP N DAP) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35DbAy41w7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35DbAy41w7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35DbAy41w7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_5x6PtuBNP8KbE02VVkffV86-oc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sapCkv4Zb7U"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T10:27:13Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "갑자기 고장 나버린 여섯 명의 마네퀸 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 갑자기 고장 나버린 여섯 명의 마네퀸 글로벌 춤 서열 1위를 가려라!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T10:27:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "97X0rYRuhG82ATNNzJ5iwmhUL3I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XxcQw_E8TfI"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:15:50Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 레이디바운스(LADYBOUNCE)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 레이디바운스(LADYBOUNCE) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-4gg3dpPFNwEb3UoL5eqpdCirXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5TwNQx-2SuA"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:15:39Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 울플러(Wolf&#39;Lo)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 울플러(Wolf'Lo) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표해주세요   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mjCMMeSodsWoE8z0NjIh7RCNE7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iuIzniSa1Hs"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T15:08:02Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/풀버전] 리더 계급 댄스 비디오 l Smoke (Prod. Dynamicduo, Padi) - 다이나믹 듀오, 이영지 #스트릿우먼파이터2",
+        "description": "[스우파2/풀버전] 리더 계급 댄스 비디오 l Smoke (Prod. Dynamicduo, Padi) - 다이나믹 듀오, 이영지 Bada / Akanen / Funky_Y ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T15:08:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zabv85SrcvG1VI_x43fQ0ZeC17M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TEv9CCFXW-Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T13:20:11Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[ENG] [스우파2/4회] 고난도 안무에 무너지는 딥앤댑! 연이은 눈물 폭발 #유료광고포함 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 고난도 안무에 무너지는 딥앤댑! 연이은 눈물 폭발 글로벌 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T13:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rwctmf6yVCwU6usSqEMpC8zF9Ew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ubmmA6p3gM0"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:14:36Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회] 탈락 크루는 파이트 존을 떠나셔도 됩니다 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 탈락 크루는 파이트 존을 떠나셔도 됩니다 글로벌 춤 서열 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:14:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33GOP0_WaoqDR1oxq4JhdN0j3Mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mFbHz1vUkE4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T14:21:32Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회] 잼 리퍼블릭 | HYBE 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 잼 리퍼블릭 | HYBE 대진 @K-POP 데스 매치 미션 글로벌 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T14:21:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DKM175MesiFcUkdCIHyrXG7jLkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FB2KQampTG4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T15:08:47Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2",
+        "description": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 Rena ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FB2KQampTG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FB2KQampTG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FB2KQampTG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T15:08:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q9xebo3dSSRDsGOsgfQkHBF5lV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_TZfGdA7rSE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T03:01:05Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] &#39;K-POP 데스 매치 미션&#39; 글로벌 대중 평가 | JYP 대진 - 베베(BEBE)",
+        "description": "[스우파2] 'K-POP 데스 매치 미션' 글로벌 대중 평가 | JYP 대진 - 베베(BEBE) ※ 본 투표는 종료되었습니다 ※ == 지금 바로! 여러분의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T03:01:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AtnLx7WWn4Nv5IrXoCke4gNdh68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQo2Z0eQGXU"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T14:52:07Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회] 간절함에 과열된 분위기!! 에이스 대결 승자는? | 츠바킬 유메리 VS 울플러 베이비슬릭 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 간절함에 과열된 분위기!! 에이스 대결 승자는? | 츠바킬 유 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T14:52:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WQ6Dt47NFAcElhbk4zoW81MDXyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T963YJo6t00"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T13:44:39Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[ENG] [스우파2/4회] 베베 | JYP 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 베베 | JYP 대진 @K-POP 데스 매치 미션 글로벌 춤 서열 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T963YJo6t00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T963YJo6t00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T963YJo6t00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T13:44:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hg6q9N68AWAzkeea_FjCpJ7UE18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aUQvmoGQ22c"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T15:08:18Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/풀버전] 부리더 계급 댄스 비디오 l Click Like (Prod. Crush) (Feat. Paul Blanco) - Crush  #스트릿우먼파이터2",
+        "description": "[스우파2/풀버전] 부리더 계급 댄스 비디오 l Click Like (Prod. Crush) (Feat. Paul Blanco) - Crush #스트릿우먼파이터2 Latrice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T15:08:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LxGVOSfwBKxcUYS9hwQFHj5Iqaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zBfAv3Lf4qQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T11:30:01Z",
+        "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+        "title": "스트릿 우먼 파이터2 4회 다시보기[Street Woman Fighter2 EP 4], 이대로 탈락시키기엔 너무 아쉽다는 스우파2 첫 번째 탈락 크루의 정체(ENG)",
+        "description": "English CC available! 스트릿 우먼 파이터 시즌 2 4회 다시보기! KPOP 데스매치 미션으로 멋진 경쟁을 보여준 스우파2! 원밀리언, 잼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Doyouram - Everyday K-Culture",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T11:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y6taLUTqENMtMQgXoh6T-qDkFZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "881P3Vr5GQU"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T09:50:33Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/2회] 바다가 아예 안 보여🤯 리더 계급의 피 튀기는 메인 댄서 선발전 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/2회] 바다가 아예 안 보여   리더 계급의 피 튀기는 메인 댄서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T09:50:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GgcpL8c7PaQKJw9fN-0o4HCHnwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Ybzzf-doWs"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-29T15:21:36Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/2회 풀캠] 리더 계급 메인 댄서 오디션 - 전체 @계급 미션",
+        "description": "[스우파2/2회 풀캠] 리더 계급 메인 댄서 오디션 - 전체 @계급 미션 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-29T15:21:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H-8rAsQNKqWwq-s3P86LGf7puU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EZbvBNHPkBg"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T14:44:56Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회] 피할 수 없는 탈락 배틀의 시작 5:5 단체 배틀 | 울플러 VS 츠바킬 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 피할 수 없는 탈락 배틀의 시작 5:5 단체 배틀 | 울플러 VS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T14:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "shFY-PLEc4tqSvsGZGe9gIFpKFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nh6K29xTBIw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T03:01:24Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] &#39;K-POP 데스 매치 미션&#39; 글로벌 대중 평가 | HYBE 대진 - 잼 리퍼블릭(JAM REPUBLIC)",
+        "description": "[스우파2] 'K-POP 데스 매치 미션' 글로벌 대중 평가 | HYBE 대진 - 잼 리퍼블릭(JAM REPUBLIC) ※ 본 투표는 종료되었습니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T03:01:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BLiucVgAcmnfLZY9V7g5j6ES7zA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wW6I731UXA8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T13:25:47Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[ENG] [스우파2/4회] 레이디바운스 | SM 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 레이디바운스 | SM 대진 @K-POP 데스 매치 미션 글로벌 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wW6I731UXA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wW6I731UXA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wW6I731UXA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T13:25:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IoEelPo_8AH3xG-7Ou2ksDkAoMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y_FGiK2AS-Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T01:30:11Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[EN/JP] [스우파2/3회 선공개] 치명적 퍼포먼스🔥 부리더 계급 〈Click Like〉 Spoiler l 오늘 밤 10시 본 방송 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/3회 선공개] 치명적 퍼포먼스   부리더 계급 〈Click Like〉 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T01:30:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rMt94207wHA-KUyiB5zJge0qlyc",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 4893,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r8HIfTQtNRXj3qBrdqx0vsDV5sA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zY7ELEU_l5M"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T10:36:47Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "국적에 관계 없이 사랑하는 춤으로 대결했던 츠바킬 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 국적에 관계 없이 사랑하는 춤으로 대결했던 츠바킬 글로벌 춤 서열 1위 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zY7ELEU_l5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zY7ELEU_l5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zY7ELEU_l5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T10:36:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92BAdzAviZ5eSym-ZdpcVt_kbwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DYEhs0jXVqc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T10:35:25Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "엔딩까지 폼 미친 츠바킬 히든 배틀 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 엔딩까지 폼 미친 츠바킬 히든 배틀 글로벌 춤 서열 1위를 가려라!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DYEhs0jXVqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DYEhs0jXVqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DYEhs0jXVqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T10:35:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gKJEs2uvbz7jD4IOXzdkzZ6bquo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LcdcBqe_K2s"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:33:31Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회 풀캠] 탈락 배틀 - 울플러 VS 츠바킬 l 5:5 단체 배틀",
+        "description": "[스우파2/4회 풀캠] 탈락 배틀 - 울플러 VS 츠바킬 l 5:5 단체 배틀 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 화요일 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LcdcBqe_K2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LcdcBqe_K2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LcdcBqe_K2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:33:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6aGArCCJcQbJibbBTWu89Hfk8gQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M3IqaDQGJ3s"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T10:30:19Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "이게 츠바킬이다 스맨파 새삥 재해석한 츠바킬 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 이게 츠바킬이다 스맨파 새삥 재해석한 츠바킬 글로벌 춤 서열 1위를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3IqaDQGJ3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3IqaDQGJ3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3IqaDQGJ3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T10:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zsRBfes9yxBaxTFoQTprGyq-_W0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmmV0FwKkc4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T13:40:02Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회] 츠바킬 | JYP 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 츠바킬 | JYP 대진 @K-POP 데스 매치 미션 글로벌 춤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmmV0FwKkc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmmV0FwKkc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmmV0FwKkc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T13:40:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z2ekIegUOQsVV-8mpw1BC2NgfuU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cRbNjxLYvgk"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T06:26:39Z",
+        "channelId": "UCNIiH_4ArJNd_cDZApZ7AFg",
+        "title": "[스우파2] 츠바킬 단체 배틀 새삥 ㅣ#shortsㅣTVING",
+        "description": "[스트릿 우먼 파이터2] 스트리밍은 오직 TVING #티빙 #TVING #스트릿우먼파이터2 #스우파2 #StreetWomanFighter2 #강다니엘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cRbNjxLYvgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cRbNjxLYvgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cRbNjxLYvgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T06:26:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AZb7u-BttP6n1hCAmFeTGuQk_5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZLAIOmk2Fs"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T07:00:16Z",
+        "channelId": "UCNIiH_4ArJNd_cDZApZ7AFg",
+        "title": "[스우파2] 츠바킬 죽어도 못 보내ㅣ#shortsㅣTVING",
+        "description": "[스트릿 우먼 파이터2] 스트리밍은 오직 TVING #티빙 #TVING #스트릿우먼파이터2 #스우파2 #StreetWomanFighter2 #강다니엘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZLAIOmk2Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZLAIOmk2Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZLAIOmk2Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T07:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDq7HYtiV7s3QOBLKJJv3C13xvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gpNPWrzJs70"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:33:44Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회 풀캠] 탈락 배틀 - 울플러 VS 츠바킬 l 히든 배틀",
+        "description": "[스우파2/4회 풀캠] 탈락 배틀 - 울플러 VS 츠바킬 l 히든 배틀 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 화요일 밤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gpNPWrzJs70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gpNPWrzJs70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gpNPWrzJs70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:33:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ELCBWRsznH9Z4AwG28192PdfYCY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BTFdcDYQknQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-13T10:21:59Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "아크로바틱 기술 연달아 성공하는 츠바킬 유메리 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 아크로바틱 기술 연달아 성공하는 츠바킬 유메리 글로벌 춤 서열 1위를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BTFdcDYQknQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BTFdcDYQknQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTFdcDYQknQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-13T10:21:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E2OKf3mxlONOjyw9cWMP-XgosHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qu82z25qzco"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T03:01:04Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] &#39;K-POP 데스 매치 미션&#39; 글로벌 대중 평가 | JYP 대진 - 츠바킬(TSUBAKILL)",
+        "description": "[스우파2] 'K-POP 데스 매치 미션' 글로벌 대중 평가 | JYP 대진 - 츠바킬(TSUBAKILL) ※ 본 투표는 종료되었습니다 ※ == 지금 바로!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qu82z25qzco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qu82z25qzco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qu82z25qzco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T03:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DJDxwxg099k08g-Se_tUzSVbICk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "497RFRSXrHQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:33:39Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회 풀캠] 탈락 배틀 - 할로 VS 아카넨 l 리더 배틀",
+        "description": "[스우파2/4회 풀캠] 탈락 배틀 - 할로 VS 아카넨 l 리더 배틀 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 화요일 밤 10 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/497RFRSXrHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/497RFRSXrHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/497RFRSXrHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:33:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DfcvbIkVp_nEahEeLwEnP307ATs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y1F2gbiabOU"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-22T13:07:51Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 츠바킬(TSUBAKILL) l 크루곡 퍼포먼스 대중 투표 (Crew Song Performance) #스트릿우먼파이터2",
+        "description": "[스우파2] 크루곡 퍼포먼스 대중 투표 (Crew Song Performance) l 츠바킬(TSUBAKILL) 바로 지금! 글로벌 춤 서열 1위를 차지할 우승 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y1F2gbiabOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y1F2gbiabOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y1F2gbiabOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-22T13:07:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jW4mXXKiAzzSu9aOK1obGJ6xZxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7U3li4wv-c0"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-02T11:30:01Z",
+        "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+        "title": "스우파2 츠바킬[TSUBAKILL], 알고보니 놀라운 경력을 가진 일본의 핫한 댄서들(ENG, AR, TH)",
+        "description": "English CC & Arabic CC & Thai CC available! 스트릿 우먼 파이터 시즌2, 스우파2의 2회가 공개되고 적은 분량에도 놀라운 존재감을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7U3li4wv-c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7U3li4wv-c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7U3li4wv-c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Doyouram - Everyday K-Culture",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-02T11:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x0C45lmW4g35dbeKeGlvHlKOkxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NH_FpteURK0"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T05:55:55Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/Special] 츠바킬 약자 지목 배틀 모음 l 매주 화요일 밤 10시 본 방송",
+        "description": "[스우파2/Special] 츠바킬 약자 지목 배틀 모음 l 매주 화요일 밤 10시 본 방송 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NH_FpteURK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NH_FpteURK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NH_FpteURK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T05:55:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eNiY4TjAKzIE0w-E4CdGcBhkpXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZkSqTzcB5_g"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-08T07:15:00Z",
+        "channelId": "UCNIiH_4ArJNd_cDZApZ7AFg",
+        "title": "[스우파2] JYP 그냥 츠바킬한테 주자 | #Shorts | TVING",
+        "description": "독보적인 춤 선으로 곡 쟁탈전 무대를 뒤집어버린 츠바킬⚔️ \"JYP 곡은 그냥 츠바킬 거라는 거지\" 방출 투표 ZERO의 위엄이란 바로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZkSqTzcB5_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZkSqTzcB5_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZkSqTzcB5_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-08T07:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E_BUKiqkO61iC6SdbDOiCi-2MtA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qgQm1rS_jdc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-06T03:16:22Z",
+        "channelId": "UCw6ECsNFIu57OVjCGdvN-1A",
+        "title": "✨[스우파2/3회] 츠바킬(TSUBAKILL) JYP 대진 곡 쟁탈전 ⚡ K-POP 데스매치 미션❤️\u200d🔥 스트릿우먼파이터2",
+        "description": "https://www.youtube.com/watch?v=r0ENErDFduI https://www.youtube.com/watch?v=DrPT5mF7MXs&t=7s ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qgQm1rS_jdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qgQm1rS_jdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qgQm1rS_jdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Choom Archive (더 춤 영상보관소) ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-06T03:16:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TgX5QlaNYvQxbV_I3Zhk1lAEjj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tG8wmVGkXuw"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:16:34Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)",
+        "description": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFIP5asvaFKFQrxXFFxUrORlo0M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zgm3_KLOJ6k"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-06T07:00:34Z",
+        "channelId": "UCxScfpfEsIC20VicfEw0-Ng",
+        "title": "스우파2 섹시퀸 츠바킬의 사야카",
+        "description": "츠바킬 #사야카 #스우파2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgm3_KLOJ6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgm3_KLOJ6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgm3_KLOJ6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오늘의 핫이슈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-06T07:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kqwlqMlF1YNHgHQOGiGLbO2q1TM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UnzG-Zfws3U"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T15:59:05Z",
+        "channelId": "UCV_eJaLYLNgV1PPyr0wu8Cw",
+        "title": "[스우파2][츠바킬] 서로 쓰담쓰담 해주는 계급미션 속 츠바킬고양이들 모음 #스우파2 #츠바킬 #swf2 #akanen",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnzG-Zfws3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnzG-Zfws3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnzG-Zfws3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "츠바킬 고양이들",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T15:59:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Jfn0f9xOvDgtMJt-889c_GjMjU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aB-ndIeJse8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-12T15:33:35Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2/4회 풀캠] 탈락 배틀 - 베이비슬릭 VS 유메리 l 에이스 배틀",
+        "description": "[스우파2/4회 풀캠] 탈락 배틀 - 베이비슬릭 VS 유메리 l 에이스 배틀 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aB-ndIeJse8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aB-ndIeJse8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aB-ndIeJse8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-12T15:33:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C9JJ0I_-lnXbME6id_osOb9wN1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hSoS8xS0bwM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-05T14:54:07Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[EN/JP] [스우파2/3회] 원밀리언/츠바킬/베베 l JYP 대진 곡 쟁탈전 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230905 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/3회] 원밀리언/츠바킬/베베 l JYP 대진 곡 쟁탈전 @K-POP 데스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hSoS8xS0bwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hSoS8xS0bwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hSoS8xS0bwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-05T14:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fAICIrXencdR2-AtfpBrC5wv8J0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x0bhov0w2jE"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-06T05:30:15Z",
+        "channelId": "UCxJ_nDgl9YE7fB2HKnZ300Q",
+        "title": "[스우파2] 츠바킬 레나 귀여운 한국어 모음",
+        "description": "레나 #스우파2 #츠바킬 안녕하세요 쿠카 잉글리시입니다. 스트릿 우먼 파이터 츠바킬 크루의 레나 한국어 모음입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0bhov0w2jE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0bhov0w2jE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0bhov0w2jE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠카잉글리시 「힙합-팝-k팝-영어」",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-06T05:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HG0m7o4e2LWm1BGlvFfFsd8rsbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SzN1Eq7Eji4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-07T03:44:00Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] #트월ㅋ챌린지 l 츠바킬 (TSUBAKILL) #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2] #트월ㅋ챌린지 l 츠바킬 (TSUBAKILL) 트월ㅋ (Prod. Czaer) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SzN1Eq7Eji4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SzN1Eq7Eji4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzN1Eq7Eji4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-07T03:44:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O9vuj7y84YCVW7XlAOFFcpzIDhY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n2E9mMLjTpI"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-28T09:03:00Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 츠바킬(TSUBAKILL) l CREW PERFORMANCE PREVIEW l 8월 22일 화요일 밤 10시 첫 방송 #스트릿우먼파이터2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2] 츠바킬(TSUBAKILL) l CREW PERFORMANCE PREVIEW ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2E9mMLjTpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2E9mMLjTpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2E9mMLjTpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-28T09:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-g13gVOd_ZcZvUwCU69q6Xssepc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LwP4pKjN4ys"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-30T13:38:10Z",
+        "channelId": "UCR8ZiPfiGqQ9-2J30gha47w",
+        "title": "레나 너무 귀엽다 진짜ㅋㅋㅋ#츠바킬 #swf2 #tsubakill #스우파2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LwP4pKjN4ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LwP4pKjN4ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwP4pKjN4ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "고기고기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-30T13:38:10Z"
+      }
+    }
+  ]
+}
