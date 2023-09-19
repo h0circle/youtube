@@ -9,8 +9,26 @@ export default class Youtube {
 
   async channelImgURL(id) {
     return this.api
-      .channels({ params: { part: "snippet", id } })
-      .then((res) => res.data.items.snippet.title);
+      .channels({
+        params: { part: "snippet", id },
+      })
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
+  async relatedVideo(id) {
+    return this.api
+      .search({
+        params: {
+          part: "snippet",
+          maxResults: 25,
+          type: "video",
+          RelatedToVideoId: id,
+        },
+      })
+      .then((res) => res.data.items)
+      .then((items) =>
+        items.map((items) => ({ ...items, id: items.id.videoId }))
+      );
   }
 
   async #searchByKeyword(keyword) {

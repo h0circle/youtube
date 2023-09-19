@@ -1,855 +1,861 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "io3J4dgpXnHM4y6m11z269w7qb4",
+  "etag": "6GfVlQY0f2FTUhhZq1YgAoW0Sc4",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 658874,
+    "totalResults": 1000000,
     "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "xrPC6FWfv8tfD4wHVHnLT3xLRQk",
+      "etag": "qFujavc7wTuwmuIzrI6WzLbp_e4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "FQZhehVRSXQ"
+        "videoId": "R9At2ICm4LQ"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:16:54Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 원밀리언(1MILLION)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 원밀리언(1MILLION) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "publishedAt": "2022-03-21T09:07:08Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; MV",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FQZhehVRSXQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:16:54Z"
+        "publishTime": "2022-03-21T09:07:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JC_qf4dJrlAUVPKQKpwZbZksoEU",
+      "etag": "Z1J1H9a9CiR61zGgLIwlB60BIqs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2Yw8lKEzJmk"
+        "videoId": "Ut1OzEVUiM4"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:16:24Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 마네퀸(MANNEQUEEN)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 마네퀸(MANNEQUEEN) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "publishedAt": "2022-11-28T09:00:14Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Birthday&#39; MV",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Birthday'\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2Yw8lKEzJmk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:16:24Z"
+        "publishTime": "2022-11-28T09:00:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TgX5QlaNYvQxbV_I3Zhk1lAEjj8",
+      "etag": "5o39k_QmtiV-FhB9in7XpFuWkh4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "tG8wmVGkXuw"
+        "videoId": "Bl0s-1c5L0M"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:16:34Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 ...",
+        "publishedAt": "2022-03-23T09:00:07Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; Performance Video",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tG8wmVGkXuw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:16:34Z"
+        "publishTime": "2022-03-23T09:00:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sr0nwDwSa4NhCgaxToKRnN1LshI",
+      "etag": "g5eDUK0iOtseLl7iaTGwQP1gAfk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "YAATBERHY1k"
+        "videoId": "uR8Mrt1IpXg"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:16:01Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 베베(BEBE)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 베베(BEBE) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표해주세요   ...",
+        "publishedAt": "2019-12-23T09:00:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Psycho&#39; MV",
+        "description": "Red Velvet's \"'The ReVe Festival' Finale\" is out! Listen and download on your favorite platform: https://smarturl.it/RV_Finale ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YAATBERHY1k/default.jpg",
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YAATBERHY1k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YAATBERHY1k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:16:01Z"
+        "publishTime": "2019-12-23T09:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IZPq55h2w4oqQnLMxBuNeWPXaxM",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg"
-      },
-      "snippet": {
-        "publishedAt": "2022-03-01T11:33:43Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "The CHOOM (더 춤)",
-        "description": "The CHOOM(더 춤) Official Channel Play The CHOOM and Everybody Dance Now! == We are all connected, The CHOOM Mnet ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/0Ini58AGkOhNeHhbR9tPxUhJ5SZRcCiQQgjKE1laIu_0kr-MRPEMBi38d_qiwzzQvl9K2Q_M=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "The CHOOM (더 춤)",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-03-01T11:33:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "IzuSv40cfMl5TvkvE26X1tvSkUE",
+      "etag": "l6nON_Z-zuCG0AUCMFejYCOUn3U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "35DbAy41w7k"
+        "videoId": "Pg7nBHXQCCA"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:16:15Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 딥앤댑(DEEP N DAP)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 딥앤댑(DEEP N DAP) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표 ...",
+        "publishedAt": "2020-01-13T10:00:04Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 - Psycho @ReVe Festival FINALE",
+        "description": "Listen and download on your favorite platform: https://smarturl.it/RV_Finale 'Psycho' MV https://youtu.be/uR8Mrt1IpXg Red ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/35DbAy41w7k/default.jpg",
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/35DbAy41w7k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/35DbAy41w7k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:16:15Z"
+        "publishTime": "2020-01-13T10:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_5x6PtuBNP8KbE02VVkffV86-oc",
+      "etag": "2aBCRS2wFkaNjE4y6LukTHKy2aU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "sapCkv4Zb7U"
+        "videoId": "c9RzZpV460k"
       },
       "snippet": {
-        "publishedAt": "2023-09-13T10:27:13Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "갑자기 고장 나버린 여섯 명의 마네퀸 #스트릿우먼파이터2",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 갑자기 고장 나버린 여섯 명의 마네퀸 글로벌 춤 서열 1위를 가려라!",
+        "publishedAt": "2021-08-16T09:00:48Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Queendom&#39; MV",
+        "description": "Red Velvet's 6th Mini Album \"Queendom\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/default.jpg",
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sapCkv4Zb7U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-13T10:27:13Z"
+        "publishTime": "2021-08-16T09:00:48Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "97X0rYRuhG82ATNNzJ5iwmhUL3I",
+      "etag": "1m2F1XqMuu-POJ6jRym0dtYvxB8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "XxcQw_E8TfI"
+        "videoId": "Z7yNvMzz2zg"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:15:50Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 레이디바운스(LADYBOUNCE)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 레이디바운스(LADYBOUNCE) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 ...",
+        "publishedAt": "2020-01-08T09:00:08Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Psycho&#39; Performance Video",
+        "description": "Listen and download on your favorite platform: https://smarturl.it/RV_Finale 'Psycho' MV https://youtu.be/uR8Mrt1IpXg Red ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XxcQw_E8TfI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:15:50Z"
+        "publishTime": "2020-01-08T09:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-4gg3dpPFNwEb3UoL5eqpdCirXg",
+      "etag": "h1cO1AFJWB_8X-eU-XrrnGPimhc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "5TwNQx-2SuA"
+        "videoId": "6uJf2IT2Zh8"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:15:39Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] 메가 크루 미션 대중 평가 l 울플러(Wolf&#39;Lo)",
-        "description": "[스우파2] 메가 크루 미션 대중 평가 l 울플러(Wolf'Lo) 지금 바로! 가장 인상적인 초대형 퍼포먼스를 보여준 크루에게 투표해주세요   ...",
+        "publishedAt": "2017-11-17T09:00:03Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;피카부 (Peek-A-Boo)&#39; MV",
+        "description": "Red Velvet's 2nd full length album \"Perfect Velvet\" has been released. Listen and download on iTunes & Apple Music, Spotify, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/default.jpg",
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/5TwNQx-2SuA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:15:39Z"
+        "publishTime": "2017-11-17T09:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "mjCMMeSodsWoE8z0NjIh7RCNE7g",
+      "etag": "aa5utBh4BPPCBpTsNA9RNd0xpO0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "iuIzniSa1Hs"
+        "videoId": "GTcM3qCeup0"
       },
       "snippet": {
-        "publishedAt": "2023-09-05T15:08:02Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/풀버전] 리더 계급 댄스 비디오 l Smoke (Prod. Dynamicduo, Padi) - 다이나믹 듀오, 이영지 #스트릿우먼파이터2",
-        "description": "[스우파2/풀버전] 리더 계급 댄스 비디오 l Smoke (Prod. Dynamicduo, Padi) - 다이나믹 듀오, 이영지 Bada / Akanen / Funky_Y ...",
+        "publishedAt": "2020-10-17T09:00:11Z",
+        "channelId": "UCxOZuUWuWhnsJqnlTcLlSYg",
+        "title": "[MV] Red Velvet (레드벨벳) - 미래 [스타트업 OST Part.1 (START-UP OST Part.1)]",
+        "description": "스타트업OST #미래 #레드벨벳 #RedVelvet 지금 바로 이 노래를 들어보세요! | Experience this song on your platform now!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/default.jpg",
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iuIzniSa1Hs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "VLENDING 블렌딩",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-05T15:08:02Z"
+        "publishTime": "2020-10-17T09:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zabv85SrcvG1VI_x43fQ0ZeC17M",
+      "etag": "KPxDK2zX4Yc9dBoQ0u722LiouOY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TEv9CCFXW-Q"
+        "videoId": "JFgv8bKfxEs"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T13:20:11Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[ENG] [스우파2/4회] 고난도 안무에 무너지는 딥앤댑! 연이은 눈물 폭발 #유료광고포함 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 고난도 안무에 무너지는 딥앤댑! 연이은 눈물 폭발 글로벌 ...",
+        "publishedAt": "2014-08-03T13:59:52Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;행복 (Happiness)&#39; MV",
+        "description": "The MV of 'Happiness' by Red Velvet (SEULGI, IRENE, WENDY and JOY) the new group from SM Entertainment, is now released ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TEv9CCFXW-Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T13:20:11Z"
+        "publishTime": "2014-08-03T13:59:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Rwctmf6yVCwU6usSqEMpC8zF9Ew",
+      "etag": "UAd7hpBEwlljIUZoOS4_BoNbask",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ubmmA6p3gM0"
+        "videoId": "b8n1VdA6iCY"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T15:14:36Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/4회] 탈락 크루는 파이트 존을 떠나셔도 됩니다 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 탈락 크루는 파이트 존을 떠나셔도 됩니다 글로벌 춤 서열 ...",
+        "publishedAt": "2022-12-06T09:00:15Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Birthday&#39; Performance Video",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Birthday'\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/default.jpg",
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ubmmA6p3gM0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T15:14:36Z"
+        "publishTime": "2022-12-06T09:00:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "33GOP0_WaoqDR1oxq4JhdN0j3Mk",
+      "etag": "H2EDwuINs_QsuNMBVVsogrWz8hg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mFbHz1vUkE4"
+        "videoId": "QslJYDX3o8s"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T14:21:32Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/4회] 잼 리퍼블릭 | HYBE 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 잼 리퍼블릭 | HYBE 대진 @K-POP 데스 매치 미션 글로벌 ...",
+        "publishedAt": "2016-09-06T15:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;러시안 룰렛 (Russian Roulette)&#39; MV",
+        "description": "Red Velvet's 3rd mini album “Russian Roulette” has been released. Listen and download on iTunes & Apple Music, Spotify, and ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/default.jpg",
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mFbHz1vUkE4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T14:21:32Z"
+        "publishTime": "2016-09-06T15:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DKM175MesiFcUkdCIHyrXG7jLkU",
+      "etag": "sdkpyehRE1KfJwJ2qWvXYZH7u6U",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "FB2KQampTG4"
+        "kind": "youtube#playlist",
+        "playlistId": "PLf6o667sbSzx88vIYLVhs-UyjBNJG0J7I"
       },
       "snippet": {
-        "publishedAt": "2023-09-05T15:08:47Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2",
-        "description": "[스우파2/풀버전] 루키 계급 댄스 비디오 l 트월ㅋ (Prod. Czaer) - 미연 ((여자)아이들), 우기 ((여자)아이들) #스트릿우먼파이터2 Rena ...",
+        "publishedAt": "2018-01-21T13:34:12Z",
+        "channelId": "UCZpcMPv1Tll7EzHV8pQPhxQ",
+        "title": "Red Velvet MV Marathon",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FB2KQampTG4/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FB2KQampTG4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FB2KQampTG4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Lan Pedrera",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-05T15:08:47Z"
+        "publishTime": "2018-01-21T13:34:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "q9xebo3dSSRDsGOsgfQkHBF5lV4",
+      "etag": "pDyU8WTKypGSo9OANUg6Xm-nEFY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_TZfGdA7rSE"
+        "videoId": "J_CFBjAyPWE"
       },
       "snippet": {
-        "publishedAt": "2023-06-23T03:01:05Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] &#39;K-POP 데스 매치 미션&#39; 글로벌 대중 평가 | JYP 대진 - 베베(BEBE)",
-        "description": "[스우파2] 'K-POP 데스 매치 미션' 글로벌 대중 평가 | JYP 대진 - 베베(BEBE) ※ 본 투표는 종료되었습니다 ※ == 지금 바로! 여러분의 ...",
+        "publishedAt": "2018-01-29T09:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Bad Boy&#39; MV",
+        "description": "Red Velvet's 2nd Album Repackage \"The Perfect Red Velvet\" has been released. Listen and download on iTunes & Apple Music, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/default.jpg",
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_TZfGdA7rSE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T03:01:05Z"
+        "publishTime": "2018-01-29T09:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "AtnLx7WWn4Nv5IrXoCke4gNdh68",
+      "etag": "4Xu4etqpzDJPdLf90FJogzW_g84",
       "id": {
         "kind": "youtube#video",
-        "videoId": "HQo2Z0eQGXU"
+        "videoId": "h3zLwp3NzYI"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T14:52:07Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/4회] 간절함에 과열된 분위기!! 에이스 대결 승자는? | 츠바킬 유메리 VS 울플러 베이비슬릭 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 간절함에 과열된 분위기!! 에이스 대결 승자는? | 츠바킬 유 ...",
+        "publishedAt": "2023-01-09T12:00:14Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Time To Love&#39; @&#39;Birthday&#39; PARTY in KWANGYA",
+        "description": "Korean Lyrics by 강은정 Composed by Ellen Berg Tollbom / 밍지션 (minGtion) / 이동훈 Arranged by 밍지션 (minGtion) Red ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/default.jpg",
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HQo2Z0eQGXU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T14:52:07Z"
+        "publishTime": "2023-01-09T12:00:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WQ6Dt47NFAcElhbk4zoW81MDXyY",
+      "etag": "LOd3w97ymYTRSLbJBVQkJujYjC4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "T963YJo6t00"
+        "videoId": "glXgSSOKlls"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T13:44:39Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[ENG] [스우파2/4회] 베베 | JYP 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 베베 | JYP 대진 @K-POP 데스 매치 미션 글로벌 춤 서열 ...",
+        "publishedAt": "2015-03-16T01:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Ice Cream Cake&#39; MV",
+        "description": "Listen and download on iTunes & Apple Music and Spotify ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/T963YJo6t00/default.jpg",
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/T963YJo6t00/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/T963YJo6t00/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T13:44:39Z"
+        "publishTime": "2015-03-16T01:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Hg6q9N68AWAzkeea_FjCpJ7UE18",
+      "etag": "mL8O7DyNrV75hOcJyS5eSZm-vwA",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "aUQvmoGQ22c"
+        "kind": "youtube#playlist",
+        "playlistId": "PLA98OzH9gllkPQyulQozQbO8R_V2-JN0J"
       },
       "snippet": {
-        "publishedAt": "2023-09-05T15:08:18Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/풀버전] 부리더 계급 댄스 비디오 l Click Like (Prod. Crush) (Feat. Paul Blanco) - Crush  #스트릿우먼파이터2",
-        "description": "[스우파2/풀버전] 부리더 계급 댄스 비디오 l Click Like (Prod. Crush) (Feat. Paul Blanco) - Crush #스트릿우먼파이터2 Latrice ...",
+        "publishedAt": "2020-05-18T12:36:08Z",
+        "channelId": "UCTOu3Irj-orsjPT6S-KlTGg",
+        "title": "Red Velvet 레드벨벳 뮤비 모음",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/default.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aUQvmoGQ22c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "MrMusicStart",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-05T15:08:18Z"
+        "publishTime": "2020-05-18T12:36:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "LxGVOSfwBKxcUYS9hwQFHj5Iqaw",
+      "etag": "B3Jknq45IigvvanX0NB_ANRsR44",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zBfAv3Lf4qQ"
+        "videoId": "WyiIGEHQP8o"
       },
       "snippet": {
-        "publishedAt": "2023-09-13T11:30:01Z",
-        "channelId": "UCu976UrWTIh3-3c8WImzVFA",
-        "title": "스트릿 우먼 파이터2 4회 다시보기[Street Woman Fighter2 EP 4], 이대로 탈락시키기엔 너무 아쉽다는 스우파2 첫 번째 탈락 크루의 정체(ENG)",
-        "description": "English CC available! 스트릿 우먼 파이터 시즌 2 4회 다시보기! KPOP 데스매치 미션으로 멋진 경쟁을 보여준 스우파2! 원밀리언, 잼 ...",
+        "publishedAt": "2017-07-09T04:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;빨간 맛 (Red Flavor)&#39; MV",
+        "description": "Red Velvet's Summer Mini Album \"The Red Summer\" has been released. Listen and download on iTunes & Apple Music, Spotify, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zBfAv3Lf4qQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Doyouram - Everyday K-Culture",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-13T11:30:01Z"
+        "publishTime": "2017-07-09T04:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "y6taLUTqENMtMQgXoh6T-qDkFZM",
+      "etag": "wBLh1HmKRs4OeaPkTPkGYStCgTE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "881P3Vr5GQU"
+        "videoId": "LluP7Yk7MLk"
       },
       "snippet": {
-        "publishedAt": "2023-08-31T09:50:33Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/2회] 바다가 아예 안 보여🤯 리더 계급의 피 튀기는 메인 댄서 선발전 #스트릿우먼파이터2",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/2회] 바다가 아예 안 보여   리더 계급의 피 튀기는 메인 댄서 ...",
+        "publishedAt": "2019-12-29T09:11:55Z",
+        "channelId": "UCc0vTneNBcwYEri1ummWvbg",
+        "title": "레드벨벳(Red Velvet) 전곡 뮤비(M/V) 모음 19곡",
+        "description": "레드벨벳(Red Velvet) 전곡 뮤비(M/V) 모음 19곡 최신부터 역순.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/default.jpg",
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/881P3Vr5GQU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "야매오크TV _Y.M Orc",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-08-31T09:50:33Z"
+        "publishTime": "2019-12-29T09:11:55Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GgcpL8c7PaQKJw9fN-0o4HCHnwk",
+      "etag": "c4z0tRpIpaTbpzZoUF_y3YDjacY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "3Ybzzf-doWs"
+        "videoId": "aiHSVQy9xN8"
       },
       "snippet": {
-        "publishedAt": "2023-08-29T15:21:36Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/2회 풀캠] 리더 계급 메인 댄서 오디션 - 전체 @계급 미션",
-        "description": "[스우파2/2회 풀캠] 리더 계급 메인 댄서 오디션 - 전체 @계급 미션 글로벌 춤 서열 1위를 가려라! 〈스트릿 우먼 파이터2〉 매주 ...",
+        "publishedAt": "2018-08-06T09:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Power Up&#39; MV",
+        "description": "Red Velvet's summer mini album \"Summer Magic\" has been released! Listen on iTunes & Apple Music, Spotify, and Google Play ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/default.jpg",
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3Ybzzf-doWs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-08-29T15:21:36Z"
+        "publishTime": "2018-08-06T09:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "H-8rAsQNKqWwq-s3P86LGf7puU8",
+      "etag": "i4ZI8GJiKGOplLyrEuAcXIpJ61U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EZbvBNHPkBg"
+        "videoId": "0m-GVqHWLpU"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T14:44:56Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2/4회] 피할 수 없는 탈락 배틀의 시작 5:5 단체 배틀 | 울플러 VS 츠바킬 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 피할 수 없는 탈락 배틀의 시작 5:5 단체 배틀 | 울플러 VS ...",
+        "publishedAt": "2021-07-27T15:00:59Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Queens Archive - Red Velvet 레드벨벳 &#39;Talk To Me&#39; #YERI",
+        "description": "Red Velvet's 6th Mini Album \"Queendom\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/default.jpg",
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EZbvBNHPkBg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T14:44:56Z"
+        "publishTime": "2021-07-27T15:00:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "shFY-PLEc4tqSvsGZGe9gIFpKFQ",
+      "etag": "Q2iF-s7KmkVXHvbPSRaSIDV6v9w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Nh6K29xTBIw"
+        "videoId": "vHS9E6JFja8"
       },
       "snippet": {
-        "publishedAt": "2023-06-23T03:01:24Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[스우파2] &#39;K-POP 데스 매치 미션&#39; 글로벌 대중 평가 | HYBE 대진 - 잼 리퍼블릭(JAM REPUBLIC)",
-        "description": "[스우파2] 'K-POP 데스 매치 미션' 글로벌 대중 평가 | HYBE 대진 - 잼 리퍼블릭(JAM REPUBLIC) ※ 본 투표는 종료되었습니다 ...",
+        "publishedAt": "2019-08-19T15:00:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;음파음파 (Umpah Umpah)&#39; MV",
+        "description": "Red Velvet's new mini album \"'The ReVe Festival' Day 2\" is out! Listen now on your favorite platform: https://smarturl.it/RV_DAY2 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/default.jpg",
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Nh6K29xTBIw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T03:01:24Z"
+        "publishTime": "2019-08-19T15:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BLiucVgAcmnfLZY9V7g5j6ES7zA",
+      "etag": "ZANUy1xkts3erwbglhjSKiOyPuo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "wW6I731UXA8"
+        "videoId": "wCWoUUWwdqg"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T13:25:47Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[ENG] [스우파2/4회] 레이디바운스 | SM 대진 @K-POP 데스 매치 미션 #스트릿우먼파이터2 | Mnet 230912 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/4회] 레이디바운스 | SM 대진 @K-POP 데스 매치 미션 글로벌 ...",
+        "publishedAt": "2020-07-20T03:00:13Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet - IRENE &amp; SEULGI Episode 1 &quot;놀이 (Naughty)&quot;",
+        "description": "Red Velvet - IRENE & SEULGI's new song \"놀이 (Naughty)\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wW6I731UXA8/default.jpg",
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wW6I731UXA8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wW6I731UXA8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "Red Velvet",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T13:25:47Z"
+        "publishTime": "2020-07-20T03:00:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IoEelPo_8AH3xG-7Ou2ksDkAoMQ",
+      "etag": "EbdNq4G996QMOhn-LmxJTBTS-ew",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Y_FGiK2AS-Q"
+        "videoId": "xGr53sCo62c"
       },
       "snippet": {
-        "publishedAt": "2023-09-05T01:30:11Z",
-        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
-        "title": "[EN/JP] [스우파2/3회 선공개] 치명적 퍼포먼스🔥 부리더 계급 〈Click Like〉 Spoiler l 오늘 밤 10시 본 방송 #스트릿우먼파이터2",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f [스우파2/3회 선공개] 치명적 퍼포먼스   부리더 계급 〈Click Like〉 ...",
+        "publishedAt": "2022-03-27T15:00:20Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet レッドベルベット &#39;WILDSIDE&#39; MV",
+        "description": "Red Velvet JAPAN 1st Full Album \"Bloom\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y_FGiK2AS-Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The CHOOM (더 춤)",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-05T01:30:11Z"
+        "publishTime": "2022-03-27T15:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2mhZbDaRriywLWcmcTAlneLFCSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjzMgH_V16M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T11:00:42Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; Stage Video",
+        "description": "From SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA SMTOWN LIVE 2023 Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T11:00:42Z"
       }
     }
   ]

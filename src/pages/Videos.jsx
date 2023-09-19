@@ -14,7 +14,7 @@ export default function Videos() {
     data: videos,
   } = useQuery(["videos", keyword], () => youtube.search(keyword));
   return (
-    <div className="p-4">
+    <div className="p-8">
       {isLoading && <p>Loaindg.....🥸</p>}
       {error && <p>Something is wrong....🧐</p>}
       {videos && (
