@@ -1,42 +1,861 @@
 {
-  "kind": "youtube#channelListResponse",
-  "etag": "Qv9DMyeFpRPkaJbAz0hCflaClAk",
+  "kind": "youtube#searchListResponse",
+  "etag": "6GfVlQY0f2FTUhhZq1YgAoW0Sc4",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 1000000,
     "resultsPerPage": 25
   },
   "items": [
     {
-      "kind": "youtube#channel",
-      "etag": "6HmqhcusONg8QbGzGNw8aAutdFU",
-      "id": "UC6KwCU8Y8Uw4h_Q0ptLZkqw",
+      "kind": "youtube#searchResult",
+      "etag": "qFujavc7wTuwmuIzrI6WzLbp_e4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R9At2ICm4LQ"
+      },
       "snippet": {
-        "title": "해쭈 [HAEJOO]",
-        "description": "안녕하세요 해쭈 입니다\n\n비지니스 문의는 이쪽으로 👉🏽haejoo@sandboxnetwork.net\n\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju",
-        "customUrl": "@haejooooo",
-        "publishedAt": "2012-02-25T13:37:58Z",
+        "publishedAt": "2022-03-21T09:07:08Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; MV",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s88-c-k-c0x00ffffff-no-rj",
-            "width": 88,
-            "height": 88
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/default.jpg",
+            "width": 120,
+            "height": 90
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s240-c-k-c0x00ffffff-no-rj",
-            "width": 240,
-            "height": 240
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
           },
           "high": {
-            "url": "https://yt3.ggpht.com/ytc/AOPolaRNEPcHmrFDO9dLZg1C3xEXjj9OREIBwQUvhxY1iw=s800-c-k-c0x00ffffff-no-rj",
-            "width": 800,
-            "height": 800
+            "url": "https://i.ytimg.com/vi/R9At2ICm4LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
         },
-        "localized": {
-          "title": "해쭈 [HAEJOO]",
-          "description": "안녕하세요 해쭈 입니다\n\n비지니스 문의는 이쪽으로 👉🏽haejoo@sandboxnetwork.net\n\n감성가득 인스타그램 👉🏽  https://instagram.com/hae_jooooo_\n\n미지의 그곳 해쭈 팬카페 👉🏽  https://m.cafe.naver.com/australiahaeju"
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-21T09:07:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z1J1H9a9CiR61zGgLIwlB60BIqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ut1OzEVUiM4"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-28T09:00:14Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Birthday&#39; MV",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Birthday'\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        "country": "AU"
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-28T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5o39k_QmtiV-FhB9in7XpFuWkh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bl0s-1c5L0M"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-23T09:00:07Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; Performance Video",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-23T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g5eDUK0iOtseLl7iaTGwQP1gAfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uR8Mrt1IpXg"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-23T09:00:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Psycho&#39; MV",
+        "description": "Red Velvet's \"'The ReVe Festival' Finale\" is out! Listen and download on your favorite platform: https://smarturl.it/RV_Finale ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uR8Mrt1IpXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-23T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l6nON_Z-zuCG0AUCMFejYCOUn3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pg7nBHXQCCA"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-13T10:00:04Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 - Psycho @ReVe Festival FINALE",
+        "description": "Listen and download on your favorite platform: https://smarturl.it/RV_Finale 'Psycho' MV https://youtu.be/uR8Mrt1IpXg Red ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pg7nBHXQCCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-13T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2aBCRS2wFkaNjE4y6LukTHKy2aU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c9RzZpV460k"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-16T09:00:48Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Queendom&#39; MV",
+        "description": "Red Velvet's 6th Mini Album \"Queendom\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c9RzZpV460k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-16T09:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1m2F1XqMuu-POJ6jRym0dtYvxB8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z7yNvMzz2zg"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-08T09:00:08Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Psycho&#39; Performance Video",
+        "description": "Listen and download on your favorite platform: https://smarturl.it/RV_Finale 'Psycho' MV https://youtu.be/uR8Mrt1IpXg Red ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z7yNvMzz2zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-08T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h1cO1AFJWB_8X-eU-XrrnGPimhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6uJf2IT2Zh8"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-17T09:00:03Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;피카부 (Peek-A-Boo)&#39; MV",
+        "description": "Red Velvet's 2nd full length album \"Perfect Velvet\" has been released. Listen and download on iTunes & Apple Music, Spotify, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6uJf2IT2Zh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-17T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aa5utBh4BPPCBpTsNA9RNd0xpO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTcM3qCeup0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T09:00:11Z",
+        "channelId": "UCxOZuUWuWhnsJqnlTcLlSYg",
+        "title": "[MV] Red Velvet (레드벨벳) - 미래 [스타트업 OST Part.1 (START-UP OST Part.1)]",
+        "description": "스타트업OST #미래 #레드벨벳 #RedVelvet 지금 바로 이 노래를 들어보세요! | Experience this song on your platform now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTcM3qCeup0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VLENDING 블렌딩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KPxDK2zX4Yc9dBoQ0u722LiouOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JFgv8bKfxEs"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-03T13:59:52Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;행복 (Happiness)&#39; MV",
+        "description": "The MV of 'Happiness' by Red Velvet (SEULGI, IRENE, WENDY and JOY) the new group from SM Entertainment, is now released ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-03T13:59:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UAd7hpBEwlljIUZoOS4_BoNbask",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b8n1VdA6iCY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-06T09:00:15Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Birthday&#39; Performance Video",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Birthday'\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b8n1VdA6iCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-06T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H2EDwuINs_QsuNMBVVsogrWz8hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QslJYDX3o8s"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-06T15:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;러시안 룰렛 (Russian Roulette)&#39; MV",
+        "description": "Red Velvet's 3rd mini album “Russian Roulette” has been released. Listen and download on iTunes & Apple Music, Spotify, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QslJYDX3o8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-06T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sdkpyehRE1KfJwJ2qWvXYZH7u6U",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLf6o667sbSzx88vIYLVhs-UyjBNJG0J7I"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-21T13:34:12Z",
+        "channelId": "UCZpcMPv1Tll7EzHV8pQPhxQ",
+        "title": "Red Velvet MV Marathon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ut1OzEVUiM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lan Pedrera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-21T13:34:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pDyU8WTKypGSo9OANUg6Xm-nEFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J_CFBjAyPWE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-29T09:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Bad Boy&#39; MV",
+        "description": "Red Velvet's 2nd Album Repackage \"The Perfect Red Velvet\" has been released. Listen and download on iTunes & Apple Music, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_CFBjAyPWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-29T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Xu4etqpzDJPdLf90FJogzW_g84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h3zLwp3NzYI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T12:00:14Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Time To Love&#39; @&#39;Birthday&#39; PARTY in KWANGYA",
+        "description": "Korean Lyrics by 강은정 Composed by Ellen Berg Tollbom / 밍지션 (minGtion) / 이동훈 Arranged by 밍지션 (minGtion) Red ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3zLwp3NzYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T12:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LOd3w97ymYTRSLbJBVQkJujYjC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "glXgSSOKlls"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-16T01:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Ice Cream Cake&#39; MV",
+        "description": "Listen and download on iTunes & Apple Music and Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glXgSSOKlls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-16T01:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mL8O7DyNrV75hOcJyS5eSZm-vwA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLA98OzH9gllkPQyulQozQbO8R_V2-JN0J"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-18T12:36:08Z",
+        "channelId": "UCTOu3Irj-orsjPT6S-KlTGg",
+        "title": "Red Velvet 레드벨벳 뮤비 모음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFgv8bKfxEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MrMusicStart",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-18T12:36:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B3Jknq45IigvvanX0NB_ANRsR44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WyiIGEHQP8o"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-09T04:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;빨간 맛 (Red Flavor)&#39; MV",
+        "description": "Red Velvet's Summer Mini Album \"The Red Summer\" has been released. Listen and download on iTunes & Apple Music, Spotify, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyiIGEHQP8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-09T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wBLh1HmKRs4OeaPkTPkGYStCgTE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LluP7Yk7MLk"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-29T09:11:55Z",
+        "channelId": "UCc0vTneNBcwYEri1ummWvbg",
+        "title": "레드벨벳(Red Velvet) 전곡 뮤비(M/V) 모음 19곡",
+        "description": "레드벨벳(Red Velvet) 전곡 뮤비(M/V) 모음 19곡 최신부터 역순.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LluP7Yk7MLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "야매오크TV _Y.M Orc",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-29T09:11:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4z0tRpIpaTbpzZoUF_y3YDjacY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aiHSVQy9xN8"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-06T09:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;Power Up&#39; MV",
+        "description": "Red Velvet's summer mini album \"Summer Magic\" has been released! Listen on iTunes & Apple Music, Spotify, and Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aiHSVQy9xN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-06T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i4ZI8GJiKGOplLyrEuAcXIpJ61U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0m-GVqHWLpU"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-27T15:00:59Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Queens Archive - Red Velvet 레드벨벳 &#39;Talk To Me&#39; #YERI",
+        "description": "Red Velvet's 6th Mini Album \"Queendom\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0m-GVqHWLpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-27T15:00:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q2iF-s7KmkVXHvbPSRaSIDV6v9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vHS9E6JFja8"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-19T15:00:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet 레드벨벳 &#39;음파음파 (Umpah Umpah)&#39; MV",
+        "description": "Red Velvet's new mini album \"'The ReVe Festival' Day 2\" is out! Listen now on your favorite platform: https://smarturl.it/RV_DAY2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vHS9E6JFja8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-19T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZANUy1xkts3erwbglhjSKiOyPuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wCWoUUWwdqg"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-20T03:00:13Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet - IRENE &amp; SEULGI Episode 1 &quot;놀이 (Naughty)&quot;",
+        "description": "Red Velvet - IRENE & SEULGI's new song \"놀이 (Naughty)\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wCWoUUWwdqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-20T03:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EbdNq4G996QMOhn-LmxJTBTS-ew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xGr53sCo62c"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T15:00:20Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "Red Velvet レッドベルベット &#39;WILDSIDE&#39; MV",
+        "description": "Red Velvet JAPAN 1st Full Album \"Bloom\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xGr53sCo62c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T15:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2mhZbDaRriywLWcmcTAlneLFCSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjzMgH_V16M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T11:00:42Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 &#39;Feel My Rhythm&#39; Stage Video",
+        "description": "From SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA SMTOWN LIVE 2023 Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjzMgH_V16M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T11:00:42Z"
       }
     }
   ]

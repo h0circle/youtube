@@ -25,11 +25,11 @@ export default function VideoCard({ video, type }) {
             src={thumbnails.medium.url}
             alt={title}
           />
-          <div className={isList ? "ml-2" : ""}>
+          <div className={isList ? "" : "mr-2"}>
             <p
               className={
                 isList
-                  ? "text-sm font-semibold"
+                  ? "text-sm font-semibold line-clamp-2"
                   : "font-semibold my-2 line-clamp-2"
               }
             >

@@ -1,12 +1,12 @@
-# 🎬 Youtube Clone Project
+<div align="center"><h1>🎬 Youtube Clone Project</h1></div>
 
-📅 2023.09.12 ~ 2023.09.20
+<p align="center">📅 2023.09.12 ~ 2023.09.20</p>
 
-# 🙎🏻‍♀️ Members
+<div align="center"><h1>🙎🏻‍♀️ Members</h1></div>
 
 💻 FE Hyowon Jung
 
-# 기능 구현
+<div align="center"><h1>🪛 기능 구현</h1></div>
 
 1. 유튜브 비디오 목록
    - 유튜브 search 시 키워드 관련 비디오 목록 구현

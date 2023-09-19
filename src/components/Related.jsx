@@ -9,7 +9,7 @@ export default function Related({ id }) {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["related", id], () => youtube.relatedVideo(id));
+  } = useQuery(["related", id], async () => await youtube.relatedVideo(id));
   return (
     <>
       {isLoading && <p>Loading....</p>}

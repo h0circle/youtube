@@ -7,12 +7,34 @@ export default class Youtube {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
 
-  async channelImgURL(id) {
+  async #searchByKeyword(keyword) {
     return this.api
-      .channels({
-        params: { part: "snippet", id },
+      .search({
+        params: {
+          part: "snippet",
+          maxResults: 25,
+          type: "video",
+          q: keyword,
+        },
       })
-      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+      .then((res) => res.data.items)
+      .then((items) =>
+        items.map((item) => {
+          return { ...item, id: item.id.videoId };
+        })
+      );
+  }
+
+  async #mostPopular() {
+    return this.api
+      .videos({
+        params: {
+          part: "snippet",
+          chart: "mostPopular",
+          maxResults: 25,
+        },
+      })
+      .then((res) => res.data.items);
   }
 
   async relatedVideo(id) {
@@ -27,35 +49,36 @@ export default class Youtube {
       })
       .then((res) => res.data.items)
       .then((items) =>
-        items.map((items) => ({ ...items, id: items.id.videoId }))
+        items.map((item) => {
+          return { ...item, id: item.id.videoId };
+        })
       );
   }
 
-  async #searchByKeyword(keyword) {
+  async channelDetail(channelId) {
     return this.api
-      .search({
+      .channels({
         params: {
           part: "snippet",
-          maxResults: 25,
-          type: "video",
-          q: keyword,
+          id: channelId,
         },
       })
-      .then((res) => res.data.items)
-      .then((items) =>
-        items.map((items) => ({ ...items, id: items.id.videoId }))
-      );
+      .then((res) => res.data.items[0].snippet);
   }
 
-  async #mostPopular() {
+  async getComment(videoId) {
     return this.api
-      .videos({
+      .comments({
         params: {
           part: "snippet",
-          chart: "mostPopular",
+          videoId,
           maxResults: 25,
         },
       })
-      .then((res) => res.data.items);
+      .then((res) =>
+        res.data.items.map((item) => ({
+          ...item.snippet.topLevelComment.snippet,
+        }))
+      );
   }
 }
