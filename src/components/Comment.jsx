@@ -31,7 +31,7 @@ export default function Comment({ id }) {
               publishedAt,
             }) => (
               <li className="flex mb-5" key={uuidv4()}>
-                <div>
+                <div className="shrink-0">
                   <img
                     className="w-10 h-10 rounded-full mr-4"
                     src={authorProfileImageUrl}
@@ -45,7 +45,7 @@ export default function Comment({ id }) {
                       {format(publishedAt, "ko")}
                     </span>
                   </p>
-                  <pre className="whitespace-pre-wrap text-sm leading-6 pr-4 text-sm">
+                  <pre className="whitespace-pre-wrap leading-6 text-sm">
                     {textOriginal}
                   </pre>
                 </div>

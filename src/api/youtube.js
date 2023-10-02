@@ -37,14 +37,14 @@ export default class Youtube {
       .then((res) => res.data.items);
   }
 
-  async relatedVideo(id) {
+  async relatedVideo(videoId) {
     return this.api
       .search({
         params: {
           part: "snippet",
           maxResults: 25,
           type: "video",
-          RelatedToVideoId: id,
+          RelatedToVideoId: videoId,
         },
       })
       .then((res) => res.data.items)

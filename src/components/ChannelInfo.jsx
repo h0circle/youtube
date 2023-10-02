@@ -8,7 +8,7 @@ export default function ChannelInfo({ id, name }) {
     error,
     isLoading,
     data: channel,
-  } = useQuery(["channel", id], () => youtube.channelDetail(id), {
+  } = useQuery(["channel", id], async () => youtube.channelDetail(id), {
     staleTime: 1000 * 60 * 5,
   });
   return (
