@@ -4,7 +4,7 @@
 
 <div align="center"><h1>🙎🏻‍♀️ Members</h1></div>
 
-💻 FE Hyowon Jung
+<p align="center">💻 FE Hyowon Jung</p>
 
 <div align="center"><h1>🪛 기능 구현</h1></div>
 
