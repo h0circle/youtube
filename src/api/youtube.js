@@ -30,8 +30,8 @@ export default class Youtube {
       .videos({
         params: {
           part: "snippet",
-          chart: "mostPopular",
           maxResults: 25,
+          chart: "mostPopular",
         },
       })
       .then((res) => res.data.items);
@@ -43,8 +43,8 @@ export default class Youtube {
         params: {
           part: "snippet",
           maxResults: 25,
-          type: "video",
           RelatedToVideoId: videoId,
+          type: "video",
         },
       })
       .then((res) => res.data.items)

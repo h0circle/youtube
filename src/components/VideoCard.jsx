@@ -5,7 +5,7 @@ import koLocale from "timeago.js/lib/lang/ko";
 
 register("ko", koLocale);
 
-export default function VideoCard({ video, type }) {
+export default function VideoCard({ video, type, id }) {
   const navigate = useNavigate();
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === "list";
