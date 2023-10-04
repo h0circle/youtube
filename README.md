@@ -1,7 +1,8 @@
 <div align="center"><h1>🎬 Mini Youtube Clone Project</h1></div>
 <p align="center">📅 2023.09.12 ~ 2023.09.20</p>
 <p align="center">https://hcircle-youtube.netlify.app/</p>
-<img align="center" src="https://github.com/h0circle/youtube/assets/109214539/27e3ee27-aeec-4e87-ae4e-1fd28d25e5e7">
+<div align="center">
+<img src="https://github.com/h0circle/youtube/assets/109214539/27e3ee27-aeec-4e87-ae4e-1fd28d25e5e7"></div>
 <br><br>
 
 <div align="center"><h1>🙎🏻‍♀️Member</h1></div>
